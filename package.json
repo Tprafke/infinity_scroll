@@ -1,0 +1,22 @@
+{
+  "name": "infinity_scroll",
+  "version": "1.0.0",
+  "description": "Infinitely scroll through pictures from unsplash API.",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tprafke/infinity_scroll.git"
+  },
+  "author": "Toby Prafke",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Tprafke/infinity_scroll/issues"
+  },
+  "homepage": "https://github.com/Tprafke/infinity_scroll#readme",
+  "dependencies": {
+    "dotenv": "^8.2.0"
+  }
+}
